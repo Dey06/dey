@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Georgia', serif;
+    background: #fffaf4 url('https://i.imgur.com/LzYTz8K.png') repeat;
+    color: #3b3b3b;
+    padding: 20px;
+}
+.container {
+    max-width: 700px;
+    margin: auto;
+    background: #ffffffd0;
+    padding: 30px;
+    border: 1px solid #e2c7a4;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(192, 155, 123, 0.5);
+}
+h1, h2, h3 {
+    color: #b28a50;
+    text-align: center;
+}
+blockquote {
+    font-style: italic;
+    text-align: center;
+    margin: 20px 0;
+    color: #8c6f3e;
+}
+a {
+    color: #115e38;
+    text-decoration: none;
+    font-weight: bold;
+}
